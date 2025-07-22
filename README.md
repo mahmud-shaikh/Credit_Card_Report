@@ -1,3 +1,6 @@
+# Summary of the project:
+Analyzed detailed customer and transaction data using Power BI to uncover trends in credit card usage, customer segmentation, and spending behavior. Designed an interactive dashboard for stakeholders to explore insights, supporting data-driven decision-making for customer retention and business growth.
+
 # Credit Card Report 📊
 
 This Power BI project provides an in-depth analysis of customer and transaction data related to credit card usage. The dashboard presents key insights into user behavior, age groups, payment patterns, and product usage—helping stakeholders make informed decisions.
