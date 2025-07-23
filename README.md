@@ -5,6 +5,11 @@ Analyzed detailed customer and transaction data using Power BI to uncover trends
 
 This Power BI project provides an in-depth analysis of customer and transaction data related to credit card usage. The dashboard presents key insights into user behavior, age groups, payment patterns, and product usage—helping stakeholders make informed decisions.
 
+# Schema- Credit Card Report Database
+
+<img width="610" height="325" alt="image" src="https://github.com/user-attachments/assets/15eeaeab-fe90-4528-8aff-088ab4aa3829" />
+
+
 ## 🔍 Key Features
 
 - Dashboard showing customer demographics, transaction categories, and total spend
