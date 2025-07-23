@@ -1,3 +1,6 @@
+# Credit Card Transaction and Customer Dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
+
 # Summary of the project:
 Analyzed detailed customer and transaction data using Power BI to uncover trends in credit card usage, customer segmentation, and spending behavior. Designed an interactive dashboard for stakeholders to explore insights, supporting data-driven decision-making for customer retention and business growth.
 
